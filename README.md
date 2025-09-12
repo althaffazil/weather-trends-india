@@ -32,6 +32,18 @@ The goal is to extract **data-driven insights** about regional climate variation
 - Rising **maximum summer temperatures** across years suggest **increasing heatwave risks**.  
 
 ---
+## 📊 Sample Visualizations
+
+### Average Maximum Temperature Across Cities During Summer (Mar–Jun)
+<img width="1142" height="675" alt="Average Maximum Temperature Across Cities During Summer (Mar–Jun)" src="https://github.com/user-attachments/assets/095f2ab9-3036-462e-8fe7-917e484d983f" />
+
+### Average Minimum Temperature Across Cities During Winter (Dec–Feb)
+<img width="1051" height="606" alt="Average Minimum Temperature Across Cities During Winter (Dec–Feb)" src="https://github.com/user-attachments/assets/71f0c59a-8ec8-401a-887e-7823937696af" />
+
+### Average Rainfall Across Cities During Monsoon (Jul–Sep)
+<img width="1050" height="621" alt="Screenshot 2025-09-09 094727" src="https://github.com/user-attachments/assets/6352d744-7d6f-498b-b9bc-7c521bbd8e57" />
+
+---
 
 ## 📌 Limitations
 - Covers only **five metro cities**; not representative of entire India.  
